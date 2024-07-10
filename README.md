@@ -8,17 +8,6 @@ This repository contains a collection of data analysis projects showcasing vario
 
 Here's a list of the projects included in this repository:
 
-1. [Project 1 Name]
-   - Brief description
-   - Technologies used
-   - Key findings
-
-2. [Project 2 Name]
-   - Brief description
-   - Technologies used
-   - Key findings
-
-3. [Project 3 Name]
-   - Brief description
-   - Technologies used
-   - Key findings
+1. [IMDb Top 250 TV Shows]
+   - IMDb Top 250 TV Shows consists of the highest rated TV series in IMDb. 
+   - Microsoft Excel and Power Query
