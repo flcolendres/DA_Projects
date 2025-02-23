@@ -4,7 +4,8 @@
 This project involves building an Extract, Transform, Load (ETL) pipeline using publicly available weather data. You'll extract data from a CSV file, transform it using Python, and load it into Google BigQuery for analysis.
 
 ## Data Visualization
-Looker Studio was used to visualize the data.
+![alt text](image.png)
+After uploading the cleaned data to Google BigQuery, Looker Studio was used to visualize the data.
 
 ## Data Source
 The data was gathered from Kaggle, where each rows of data were provided by the European Climate Assessment. Each measurement were recorded from a weather station near Heathrow Airport in London, UK.
